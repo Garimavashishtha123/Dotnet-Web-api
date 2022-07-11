@@ -14,5 +14,7 @@ namespace MedicalAPI
         }
         public DbSet<labtests> labtests { get; set; }
 
+        
+
     }
 }

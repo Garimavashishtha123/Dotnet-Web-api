@@ -5987,25 +5987,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Geetanj15581\\.nuget\\packages\\": {},
+    "C:\\Users\\Garima15580\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New Project\\webapi\\MedicalAPI\\MedicalAPI\\MedicalAPI.csproj",
+      "projectUniqueName": "D:\\DotnetAPI\\Web-API\\MedicalAPI\\MedicalAPI.csproj",
       "projectName": "MedicalAPI",
-      "projectPath": "D:\\New Project\\webapi\\MedicalAPI\\MedicalAPI\\MedicalAPI.csproj",
-      "packagesPath": "C:\\Users\\Geetanj15581\\.nuget\\packages\\",
-      "outputPath": "D:\\New Project\\webapi\\MedicalAPI\\MedicalAPI\\obj\\",
+      "projectPath": "D:\\DotnetAPI\\Web-API\\MedicalAPI\\MedicalAPI.csproj",
+      "packagesPath": "C:\\Users\\Garima15580\\.nuget\\packages\\",
+      "outputPath": "D:\\DotnetAPI\\Web-API\\MedicalAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Geetanj15581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Garima15580\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

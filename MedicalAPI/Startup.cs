@@ -44,7 +44,19 @@ namespace MedicalAPI
             services.AddDbContext<labtestsContext>(options => 
             options.UseSqlServer(Configuration.GetConnectionString("Medical")));
 
+            services.AddDbContext<AppointmentDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("Medical")));
+
+            services.AddDbContext<MedicineDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("Medical")));
+
+
+
+
             services.AddScoped<labtestsRepository, sqllabtestsRepository>();
+            services.AddScoped<AppointRepository, SqlAppointRepository>();
+            services.AddScoped<MedicineRepository, SqlMedicineRepository>();
+            services.AddScoped<OrderRepository, SqlOrderRepository>();
 
             services.AddSwaggerGen(c =>
             {
